@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: "/harshal-portfolio",
+  base: "/portfolio-simple",
 });
