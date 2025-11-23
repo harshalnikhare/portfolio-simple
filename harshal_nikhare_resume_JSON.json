@@ -1,0 +1,483 @@
+{
+  "basics": {
+    "name": "Harshal Nikhare",
+    "headline": "Full Stack Developer | 4+ Years in Software Development | Specialized in MERN Stack | Delivering Scalable, Responsive & Innovative Web Applications",
+    "email": "harshalnikhare92@gmail.com",
+    "phone": "+91 7030590289",
+    "location": "Nagpur",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>I’m a <strong>Full Stack Developer</strong> with over <strong>5 years of professional experience</strong>, including <strong>4 years specializing in the MERN stack</strong>. I’ve built and optimized a wide range of <strong>web applications</strong> — from <strong>SaaS platforms</strong> and <strong>e-commerce</strong> solutions to <strong>dashboards</strong> and <strong>API-driven systems</strong> — with a strong focus on <strong>scalability, performance, and clean architecture</strong>.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "kswa4u3013ql0jypsnqacuzu",
+          "visible": true,
+          "title": "Ace Performer",
+          "awarder": "Global Market Insights Inc.",
+          "date": "March 2025",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://gminsights.com"
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "nef7c5rppfk2fe42dxubs86r",
+          "visible": true,
+          "name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+          "issuer": "Udemy",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide"
+          }
+        },
+        {
+          "id": "tznczw0fb7ilt8ybq5cr0d6l",
+          "visible": true,
+          "name": "Typescript: The Complete Developer's Guide",
+          "issuer": "Udemy",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.udemy.com/course/typescript-the-complete-developers-guide/"
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "zz0b2wxiwm93nu4tt1qqgsrn",
+          "visible": true,
+          "institution": "P.I.E.T Nagpur, RTM Nagpur University",
+          "studyType": "B.E (Electronics And Communication)",
+          "area": "Engineering",
+          "score": "",
+          "date": "Aug 2010 - Jul 2014",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "abz7t08nksfkd9onqv92kr87",
+          "visible": true,
+          "company": "Global Market Insights Inc.",
+          "position": "Full Stack Developer",
+          "location": "Pune, Maharashtra",
+          "date": "August 2024 - Present",
+          "summary": "<ul><li><p>Delivered <strong>scalable</strong>, <strong>high-performance features</strong> across multiple platforms, improving <strong>reliability</strong> and <strong>user experience</strong>.</p></li><li><p>Designed <strong>microservices</strong>, <strong>automation tools</strong>, and core portal functionalities while contributing to <strong>architecture</strong> and <strong>technical strategy</strong>.</p></li><li><p>Mentored developers and earned <strong>Ace Performer Award</strong> for impactful engineering contributions.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://gminsights.com"
+          }
+        },
+        {
+          "id": "ms9d5e7uejvtqnzm9oe2h0u0",
+          "visible": true,
+          "company": "Fargowiz Ltd. Company",
+          "position": "Full Stack Developer",
+          "location": "Jaipur, Rajasthan",
+          "date": "Feb 2022 - August 2024",
+          "summary": "<ul><li><p>Delivered full-stack solutions across multiple <strong>AI</strong>, <strong>healthcare</strong>, and compliance products, improving <strong>accuracy</strong>, <strong>efficiency</strong>, and <strong>user experience</strong>.</p></li><li><p>Led key <strong>development and architectural contributions</strong>, <strong>optimizing performance</strong> and ensuring <strong>scalable, reliable systems</strong>.</p></li><li><p>Collaborated with cross-functional teams and clients, consistently <strong>delivering high-quality features</strong> and earning strong customer appreciation.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://fargowiz.com/"
+          }
+        },
+        {
+          "id": "n9cgb92pj30xd1tb5lh96yax",
+          "visible": true,
+          "company": "Alacrity E-Commerce Solutions Pvt. Ltd.",
+          "position": "Content Management Associate",
+          "location": "Nagpur, Maharashtra",
+          "date": "April 2015 - June 2016",
+          "summary": "<ul><li><p>Managed and optimized product pages using <strong>CMS</strong>, ensuring accurate inventory, catalogs, and pricing while enhancing visibility through <strong>SEO-driven</strong> keyword strategies.</p></li><li><p>Created <strong>upscaled product</strong> versions to <strong>boost sales and engagement</strong>, leveraging <strong>HTML, CSS, Excel, and Photoshop</strong> for efficient content management.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://alacritysolutions.in/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "eqnnuxhuhnka2say6g7xk54h",
+          "visible": true,
+          "name": "English",
+          "description": "proficient",
+          "level": 0
+        },
+        {
+          "id": "za8ehrhfn880e020xlb0x3jg",
+          "visible": true,
+          "name": "Hindi",
+          "description": "Proficient",
+          "level": 0
+        },
+        {
+          "id": "tj3rc2j8f83ywjlbuut9fpra",
+          "visible": true,
+          "name": "Marathi",
+          "description": "Native",
+          "level": 0
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "nd3eie1ync5ohanc25bgv21y",
+          "visible": true,
+          "network": "Github",
+          "username": "github.com/harshalnikhare",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/harshalnikhare"
+          }
+        },
+        {
+          "id": "epglwiarn0582xhvs8yo8ncl",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "harshalnikhare",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/harshal-nikhare-b61099268"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "hej58itbgrq0yz95yq10x7jp",
+          "visible": true,
+          "name": "Sample Automation Portal – Global Market Insights Inc.",
+          "description": "Automated the creation of masked samples for market research reports",
+          "date": "",
+          "summary": "<ul><li><p>Developed an <strong>end-to-end system</strong> to automate sample generation, replacing a fully manual document creation process.</p></li><li><p>Built <strong>backend APIs</strong>, <strong>integrated third-party services</strong>, and designed a <strong>React-based dashboard</strong> for managing reports.</p></li><li><p>Reduced manual effort and turnaround time for report preparation by <strong>automating docx file generation</strong>.</p></li></ul>",
+          "keywords": [
+            "Node.js",
+            "Express.js",
+            "React.js",
+            "MySQL",
+            "MongoDB",
+            "Docx.js"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "cudap1wodwk50u00kn15g3ga",
+          "visible": true,
+          "name": "Translation Automation Portal – Global Market Insights Inc.",
+          "description": "Automated report translations with high-performance, parallelized processing",
+          "date": "",
+          "summary": "<ul><li><p>Designed a <strong>queue-based translation workflow</strong> to <strong>process multiple reports concurrently</strong>.</p></li><li><p>Reduced average translation time from 30–40 minutes to under 10 minutes per report, <strong>enabling faster multi-language delivery</strong>.</p></li><li><p>Integrated <strong>third-party translation APIs</strong> and <strong>optimized database handling </strong>for <strong>performance</strong> and <strong>scalability</strong>.</p></li></ul>",
+          "keywords": [
+            "Node.js",
+            "Next.js",
+            "Hono.js",
+            "MySQL",
+            "Third-party Translation APIs"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "o246f0fngn424j896o6zrhdq",
+          "visible": false,
+          "name": "Interactive Voice Response (IVR) System – Fargowiz Ltd. Company",
+          "description": "Voice-driven job application platform for streamlining applicant screening",
+          "date": "",
+          "summary": "<ul><li><p>Built an IVR system enabling job applicants to apply via automated voice interaction.</p></li><li><p>Implemented voice-based authentication and questionnaire flow using <strong>Twilio Speech-to-Text APIs</strong> and <strong>Dialogflow</strong>.</p></li><li><p>Developed an admin panel for clients to monitor applications and post new job listings.</p></li></ul>",
+          "keywords": [
+            "Node.js",
+            "Express.js",
+            "React.js",
+            "Redux",
+            "MySQL",
+            "Twilio",
+            "Dialogflow",
+            "GCP"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "xhqte771r37v3dzi94ttah6z",
+          "visible": true,
+          "name": "Conversatum – AI Voice Analysis Platform",
+          "description": "AI-powered voice analysis platform for meeting transcription and insights",
+          "date": "",
+          "summary": "<ul><li><p>Built an <strong>AI-driven platform</strong> to transcribe, summarize, and analyze meeting audio with speaker identification using <strong>OpenAI Whisper API</strong>.</p></li><li><p>Developed <strong>backend services</strong> and integrated <strong>web and mobile interfaces </strong>for seamless<strong> voice-to-text analytics</strong>.</p></li></ul>",
+          "keywords": [
+            "Next.js",
+            "React Native",
+            "Node.js",
+            "Express.js",
+            "MySQL",
+            "GCP"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://conversatum.co/"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "jcqvlemogrmlg9fii7vx2m5y",
+          "visible": true,
+          "name": "Frontend",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "React.js",
+            "Next.js",
+            "Redux",
+            "TanStack React Query",
+            "HTML",
+            "CSS",
+            "Tailwind"
+          ]
+        },
+        {
+          "id": "gzb4xyd0prqcn2ps0iwqnor7",
+          "visible": true,
+          "name": "Backend",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Node.js",
+            "Express.js",
+            "Prisma",
+            "Redis",
+            "Hono.js",
+            "sql",
+            "Auth",
+            "web sockets"
+          ]
+        },
+        {
+          "id": "g9quyax5g3mfcg4dr07li367",
+          "visible": true,
+          "name": "Languages",
+          "description": "",
+          "level": 0,
+          "keywords": ["Javascript", "Typescript", "sql", "python"]
+        },
+        {
+          "id": "f2srdcvfa6kq0hh3nr981ltr",
+          "visible": true,
+          "name": "Databases",
+          "description": "",
+          "level": 0,
+          "keywords": ["MySQL", "MongoDB", "Postgres", "Redis"]
+        },
+        {
+          "id": "esjm42c9cryscxp5o32uhvuu",
+          "visible": true,
+          "name": "Cloud Platforms",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "AWS",
+            "GCP",
+            "Cloudflare",
+            "EC2",
+            "Lambda",
+            "S3",
+            "CloudFront",
+            "Severless"
+          ]
+        },
+        {
+          "id": "csfzazlepw3kcvip3ut4dai4",
+          "visible": true,
+          "name": "Tools",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Docker",
+            "CICD",
+            "Dialogflow",
+            "Twilio",
+            "Jest",
+            "turborepo",
+            "Bullmq"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "awards",
+          "volunteer",
+          "references"
+        ],
+        ["interests", "publications"]
+      ],
+      [["skills", "projects", "certifications", "languages"], []]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#dc2626"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": ["regular", "italic", "600"],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
+
