@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: "/portfolio-simple",
+  base: "/portfolio-simple/",
 });
